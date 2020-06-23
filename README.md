@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![Chats](images/chats.jpg)
+![Messages](images/messages.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
